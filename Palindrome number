@@ -1,0 +1,6 @@
+n=input()
+reversed_n=n[ : : -1]
+print(" palindrome number of given number is:", reversed_n)
+
+//n=123  palindrome number of given number is: 321
+//n=234  palindrome number of given number is :432
