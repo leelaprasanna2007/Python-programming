@@ -8,7 +8,7 @@ while temp>0:
 if sum==n:
     print("Given number is Armstrong number")
 else:
-    print(" Given number is not an Armstrong number")   
+    print(" Given number is not an Armstrong number")  
 
 //n=153   Given number is Armstrong number
 //n=370   Given number is Armstrong number
