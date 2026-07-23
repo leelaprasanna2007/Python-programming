@@ -1,0 +1,13 @@
+n=int(input())
+first=0
+second=1
+print(first)
+print(second)
+for i in range(n):
+    next=first+second
+    first=second
+    second=next
+    print(next)
+
+//n=5   0 1 1 2 3 5 8
+//n=3   0 1 1 2 3
