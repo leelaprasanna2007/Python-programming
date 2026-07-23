@@ -1,0 +1,15 @@
+n=int(input())
+temp=n
+digits=len(str(n))
+sum=0
+while temp>0:
+    digit=temp%10
+    sum=sum+digit**digits
+    temp=temp//10
+if sum==n:
+    print(" Given number is an Armstrong number")
+else:
+    print(" Given number is not an armstrong number") 
+
+//n=9474     Given number is an Armstrong number
+//n=54748    Given number is an Armstrong number
