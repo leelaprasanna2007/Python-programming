@@ -1,0 +1,6 @@
+n=list(map(int,input().split()))
+minimum=min(n)
+print("Minimum number:",minimum)
+
+//2 4 6 3 1
+//Minimum number: 1
