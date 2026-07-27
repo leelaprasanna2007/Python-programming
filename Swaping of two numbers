@@ -3,6 +3,6 @@ b=input()
 a,b=b,a
 print("Swaping of two numbers:", a,b)
 
-// a=34
-//b=67
-//Swaping of two numbers:67 34
+#a=34
+#b=67
+#Swaping of two numbers:67 34
