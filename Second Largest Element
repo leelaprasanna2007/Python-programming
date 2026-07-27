@@ -3,4 +3,4 @@ n=list(set(n)) #remove duplicate
 n.sort(reverse=True)
 print(n[1])
 
-//n=10 5 20 8 20 15     output: 15
+#n=10 5 20 8 20 15     output: 15
